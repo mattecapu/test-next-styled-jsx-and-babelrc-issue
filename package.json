@@ -1,0 +1,12 @@
+{
+  "name": "test-next-styled-jsx-and-babelrc-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "next src"
+  },
+  "dependencies": {
+    "next": "2.0.0-beta.16"
+  }
+}
